@@ -1,2 +1,4 @@
 .literary_loft_venv/
+.literary_loft_venv/Lib/
+.literary_loft_venv/Scripts/
 \.literary_loft_venv/
